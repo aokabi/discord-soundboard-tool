@@ -2,12 +2,13 @@
 discordのサウンドボードに、手軽にサウンドを追加するために作った。
 
 ## Requirement
-- python3
+- uv (https://github.com/astral-sh/uv)
+- ffmpeg
 - docker
 
 ## 利用方法
 最初に使う前に
-- `pip3 install -r requirements.txt` をしてください。
+- `uv sync` をしてください。
 
 音声データ作成方法。
 
