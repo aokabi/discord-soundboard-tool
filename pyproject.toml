@@ -1,0 +1,15 @@
+[project]
+name = "discord-soundboard-tool"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "audioop-lts==0.2.1",
+    "certifi==2024.12.14",
+    "charset-normalizer==3.4.1",
+    "idna==3.10",
+    "pydub==0.25.1",
+    "requests==2.32.3",
+    "urllib3==2.3.0",
+]
